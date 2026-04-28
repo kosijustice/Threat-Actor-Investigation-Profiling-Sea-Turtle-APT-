@@ -736,3 +736,5 @@ This project is licensed under the MIT License — research and educational use.
 `#ThreatIntelligence` `#MISP` `#MITREATTACK` `#APT` `#SeaTurtle` `#DNSHijacking` `#CyberEspionage` `#SOCAnalyst` `#ThreatHunting`
 
 </div>
+See below the full Report
+[Threat-Actor-Investigation-Report](https://github.com/kosijustice/Threat-Actor-Investigation-Profiling-Sea-Turtle-APT-/blob/main/Threat%20Actor%20Investigation%20and%20Profiling%20MAIN%20DOC%20Google%20Docs.pdf)
